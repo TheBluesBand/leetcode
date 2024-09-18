@@ -10,6 +10,7 @@ This repository will serve as a library of all of my solutions that I come up wi
 |232| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Python](./EasyQuestions/ImplementQueueUsingStacks) | Easy |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./EasyQuestions/TwoSum) | Easy |
 | 9 | [Palidrome Number](https://leetcode.com/problems/palindrome-number) | [Python](./EasyQuestions/PalindromeNumber) | Easy |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](./EasyQuestions/RomanToInteger/) | Easy |
 
 ## Usage
 This repository is used for the two purposes:
