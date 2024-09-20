@@ -11,6 +11,7 @@ This repository will serve as a library of all of my solutions that I come up wi
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./EasyQuestions/TwoSum) | Easy |
 | 9 | [Palidrome Number](https://leetcode.com/problems/palindrome-number) | [Python](./EasyQuestions/PalindromeNumber) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](./EasyQuestions/RomanToInteger/) | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./EasyQuestions/ValidParentheses/) | Easy |
 
 ## Usage
 This repository is used for the two purposes:
